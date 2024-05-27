@@ -7,14 +7,22 @@ En esta prueba deberás ocupar todos tus conocimientos para desarrollar un siste
 
 ## Visuales 
 ![image](https://github.com/jwoodleybolivard/Prueba-Skate_Park/assets/125617339/aa1eb164-eb81-48fa-8e82-f10c682d5322)
+
 *Imagen 1. Lista de participantes Fuente: Desafío Latam*
 ![image](https://github.com/jwoodleybolivard/Prueba-Skate_Park/assets/125617339/1839ea87-c86c-4016-9e52-e42fd67dafe7)
+
 *Imagen 2. Registro de participantes Fuente: Desafío Latam*
+
 ![image](https://github.com/jwoodleybolivard/Prueba-Skate_Park/assets/125617339/ec98ba15-db62-4931-b8e3-913a01aa232b)
+
 *Imagen 3. Inicio de sesión Fuente: Desafío Latam*
+
 ![image](https://github.com/jwoodleybolivard/Prueba-Skate_Park/assets/125617339/fc257853-6978-45a8-8709-d3b3edbda5ca)
+
 *Imagen 4. Modificación de los datos del perfil Fuente: Desafío Latam*
+
 ![image](https://github.com/jwoodleybolivard/Prueba-Skate_Park/assets/125617339/306d5866-46eb-4d4b-b6ad-30aa0b6ee212)
+
 *Imagen 5. Administración Fuente: Desafío Latam*
 
 ## Consideraciones 🚀
